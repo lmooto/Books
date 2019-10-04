@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_data_message">Error Loading data from the Google books API</string>
+    <string name="image">Book Image</string>
+    <string name="title_text">Title TextView</string>
+    <string name="publisher_text">Publisher</string>
+    <string name="published_date_text">Published Date</string>
+    <string name="search">Search</string>
+    <string name="title_activity_book_detail">BookDetail</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hint_title">Insert Title</string>
+    <string name="hint_author">Insert Author(s)</string>
+    <string name="hint_publisher">Insert Publisher</string>
+    <string name="hint_ISBN">Insert ISBN</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="no_search_data">Please insert valid search terms</string>
+
+</resources>
